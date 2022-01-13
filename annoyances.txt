@@ -8,13 +8,13 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0
 ! Copyright: © 2020-2022 by ANT0x1
 
-tracker.gg##.pwa-upsell
-trakt.tv##[href="/vip"]
 haveibeenpwned.com##.tertiaryHeader
 haveibeenpwned.com##.actionsBar
 
-trakt.tv##.hu-ck-s-t-er-grid-item
+tracker.gg##.pwa-upsell
 
+trakt.tv##.hu-ck-s-t-er-grid-item
+trakt.tv##[href="/vip"]
 trakt.tv##.btn-watch-now
 trakt.tv##.watch-now
 trakt.tv##.streaming-links
