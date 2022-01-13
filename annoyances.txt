@@ -1,15 +1,20 @@
-! Title: Tony's filters - Annoyances
+! Title: ANT0x1 filters - Annoyances
 ! Author: ANT0x1 | https://github.com/ANT0x1
-! Version: 1.0.0
-! TimeUpdated: 2021-10-20T15:00:00+00:00
-! Expires: 7 days (update frequency)
-! Description: Annoyances.
-! Homepage: https://github.com/ANT0x1/ad-filters
+! Version: 1.0.0.1
+! TimeUpdated: 2022-01-13T15:00:00+00:00
+! Expires: 14 days (update frequency)
 ! Issues: https://github.com/ANT0x1/ad-filters/issues
 ! Copyright: © 2020-2021 by ANT0x1
 ! License: https://creativecommons.org/licenses/by-sa/4.0
-! Works Best With: uBlock Origin or AdGuard
+! Copyright: © 2020-2022 by ANT0x1
 
 tracker.gg##.pwa-upsell
 trakt.tv##[href="/vip"]
+haveibeenpwned.com##.tertiaryHeader
+haveibeenpwned.com##.actionsBar
+
 trakt.tv##.hu-ck-s-t-er-grid-item
+
+trakt.tv##.btn-watch-now
+trakt.tv##.watch-now
+trakt.tv##.streaming-links
